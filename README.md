@@ -20,17 +20,17 @@ This is a classic Snake game implemented in C++ using the `clui` library for col
    git clone https://github.com/yourusername/snake-game.git
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd snake-game
 Compile the code:
 
-bash
+```bash
 Copy code
 g++ -o snake_game main.cpp
 Run the game:
 
-bash
+```bash
 Copy code
 ./snake_game
 Controls
