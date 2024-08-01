@@ -40,10 +40,10 @@ Player 1 (Snake 1):
 
 Player 2 (Snake 2):
 
-`Arrow Up` - Move Up
-`Arrow Left` - Move Left
-`Arrow Down` - Move Down
-`Arrow Right` - Move Right
+`Arrow Up` - Move Up.<br>
+`Arrow Left` - Move Left.<br>
+`Arrow Down` - Move Down.<br>
+`Arrow Right` - Move Right.<br>
 
 `Game Menu`
 
