@@ -33,10 +33,10 @@ Navigate to the project directory:
 Controls
 Player 1 (Snake 1):
 
-`W` - Move Up.
-`A` - Move Left.
-`S` - Move Down.
-`D` - Move Right.
+`W` - Move Up.<br>
+`A` - Move Left.<br>
+`S` - Move Down.<br>
+`D` - Move Right.<br>
 
 Player 2 (Snake 2):
 
