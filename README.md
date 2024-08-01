@@ -43,10 +43,15 @@ Arrow Up - Move Up
 Arrow Left - Move Left
 Arrow Down - Move Down
 Arrow Right - Move Right
+
 Game Menu
+
 START GAME: Begin a new game.
+
 POINTS TABLE: View the current scores and rankings.
+
 ADD USERS: Add or change usernames for players.
+
 EXIT: Exit the game.
 Contributing
 We welcome contributions! To contribute:
