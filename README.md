@@ -21,15 +21,15 @@ This is a classic Snake game implemented in C++ using the `clui` library for col
 Navigate to the project directory:
    ```bash
    cd snake-game
-2.**Compile the code:**
+   ```
+2. **Compile the code:**
    ```bash
    g++ -o snake_game main.cpp
-
+   ```
 3.**Run the game:**
-
-```bash
-Copy code
-./snake_game
+   ```bash
+   ./snake_game
+   ```
 Controls
 Player 1 (Snake 1):
 
