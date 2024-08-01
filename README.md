@@ -20,9 +20,9 @@ This is a classic Snake game implemented in C++ using the `clui` library for col
    git clone https://github.com/yourusername/snake-game.git
 Navigate to the project directory:
 
-```bash
-Copy code
-cd snake-game
+   ```bash
+   cd snake-game
+
 Compile the code:
 
 ```bash
