@@ -55,12 +55,12 @@ ADD USERS: Add or change usernames for players.
 
 EXIT: Exit the game.
 Contributing
-We welcome contributions! To contribute:
+We welcome contributions! To contribute:<br>
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Submit a pull request.
-License
-This project is licensed under the MIT License.
+Fork the repository.<br>
+Create a new branch for your feature or bug fix.<br>
+Make your changes and commit them.<br>
+Submit a pull request.<br>
+`License`<br>
+This project is licensed under the MIT License.<br>
 
