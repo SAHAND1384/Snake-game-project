@@ -33,18 +33,19 @@ Navigate to the project directory:
 Controls
 Player 1 (Snake 1):
 
-W - Move Up
-A - Move Left
-S - Move Down
-D - Move Right
+`W` - Move Up
+`A` - Move Left
+`S` - Move Down
+`D` - Move Right
+
 Player 2 (Snake 2):
 
-Arrow Up - Move Up
-Arrow Left - Move Left
-Arrow Down - Move Down
-Arrow Right - Move Right
+`Arrow Up` - Move Up
+`Arrow Left` - Move Left
+`Arrow Down` - Move Down
+`Arrow Right` - Move Right
 
-Game Menu
+`Game Menu`
 
 START GAME: Begin a new game.
 
